@@ -53,6 +53,7 @@ public class DatabaseConnection {
         } catch (SQLException e) {
             System.err.println("Failed to fetch statement from query");
             e.printStackTrace();
+            /*teststtststststststsstt */
         }
         return resultSet;
         
