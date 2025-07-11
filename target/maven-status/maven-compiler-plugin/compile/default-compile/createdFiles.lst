@@ -1,0 +1,5 @@
+com\logisticscloudco\app\App.class
+com\logisticscloudco\app\DatabaseConnection.class
+com\logisticscloudco\app\PostLabel\StarShipIt.class
+com\logisticscloudco\app\PostLabel\PostLabel.class
+com\logisticscloudco\app\CreatePDF.class
